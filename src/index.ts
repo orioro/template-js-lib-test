@@ -9,3 +9,5 @@
  * @returns {string} result
  */
 export const templateJsLibTest = (param: string):string => `output "${param}"`
+
+// fix
