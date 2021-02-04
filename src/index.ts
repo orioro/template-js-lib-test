@@ -10,4 +10,4 @@
  */
 export const templateJsLibTest = (param: string):string => `output "${param}"`
 
-// fix
+// fix 1
