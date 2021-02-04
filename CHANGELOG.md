@@ -5,7 +5,6 @@
 
 * fix sthing ([5bbc46f](https://github.com/orioro/template-js-lib-test/commit/5bbc46f3c892ac3fc08f69af580ef5c791ebc406))
 
-
 ### Features
 
 * add some feature ([432ca6c](https://github.com/orioro/template-js-lib-test/commit/432ca6c5f446c6d7efb8ccc6f885a2e7cf4f9200))
