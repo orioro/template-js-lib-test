@@ -12,3 +12,4 @@ export const templateJsLibTest = (param: string):string => `output "${param}"`
 
 // fix 1
 // next#breaking-change
+// next#fix 1
