@@ -9,7 +9,7 @@
  * @returns {string} result
  */
 export const templateJsLibTest = (param: string):string => `output "${param}"`
-
+// feature on latest
 // fix 1
 // next#breaking-change
 // next#fix 1
